@@ -1,0 +1,37 @@
+{
+  "name": "jquery-upload-file-for-bower",
+  "description": "jQuery Upload File plugin provides Multiple file Uploads with progress bar.Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.",
+  "main": "./js/jquery.uploadfile.js",
+  "authors": [
+    "Ravishanker Kusuma (http://hayageek.com)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jquery",
+    "upload",
+    "file",
+    "ajax",
+    "progressbar",
+    "multiple"
+  ],
+  "homepage": "https://github.com/cecidisi/jquery-upload-file",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "4.0.3",
+  "_release": "4.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "4.0.3",
+    "commit": "2e62478461466298efb0985d93a3289e6f4f6d29"
+  },
+  "_source": "https://github.com/cecidisi/jquery-upload-file.git",
+  "_target": "^4.0.3",
+  "_originalSource": "jquery-upload-file-for-bower",
+  "_direct": true
+}

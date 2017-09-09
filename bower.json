@@ -1,0 +1,21 @@
+{
+  "name": "upload",
+  "authors": [
+    "xindong888 <xindong888@163.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "jquery-upload-file-for-bower": "^4.0.3"
+  }
+}
